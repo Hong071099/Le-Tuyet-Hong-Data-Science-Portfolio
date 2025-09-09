@@ -23,5 +23,15 @@ In customer segmentation analytics, this can be done in various ways, such as Pe
 
 <img width="1114" height="523" alt="Screenshot 2025-09-09 at 11 10 05" src="https://github.com/user-attachments/assets/16f354f5-13a8-4dad-b9d9-b4db6b396ae8" />
 
+**🔧 Methods & Applications**
+### **1. Percentile Scoring**
+- The Percentile method is a simple yet powerful way to segment customers based on their attributes. In this project, I applied Excel, SQL (BigQuery), and Python to calculate and assign percentile scores to customers.
+- By ranking customers into groups such as the top 10% or top 25%, I was able to identify high-value customers and compare them with lower-value segments.
+
+Percentile by using Excel
+<img width="1420" height="403" alt="Screenshot 2025-09-09 at 11 40 24" src="https://github.com/user-attachments/assets/9a81652c-c63e-476b-bfdf-9ae7f5a7e659" />
+
+Percentile by using SQL
+<img width="643" height="376" alt="Screenshot 2025-09-09 at 11 42 10" src="https://github.com/user-attachments/assets/f9c1699d-7118-49fe-83dc-3b474c6ddc87" />
 
 
